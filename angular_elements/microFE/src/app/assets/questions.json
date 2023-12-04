@@ -1,0 +1,16 @@
+[
+    {"title": "Chi ha vinto il Campionato di moto GP 2023?","category":"sport", "correct":"Pecco","answers":["Bezzecchi","Pippo","Pecco"]},
+    {"title": "Quale squadra di calcio ha vinto il mondiale del 2018?","category":"sport", "correct":"Francia","answers":["Brasile","Francia","Argentina"]},
+    {"title": "Quanti brevetti di nuoto si prendono a scuola nuoto?","category":"sport", "correct":"6","answers":["2","5","6"]},
+    {"title": "Quante medaglie ha vinto la Cina alle Olimpiadi di Pechino nel 2008?","category":"sport", "correct":"100","answers":["50","60","100"]},
+    {"title": "Chi ha vinto il mondiale di tennis?","category":"sport", "correct":"Sinner","answers":["Sinner","Pluto","Topolino"]},
+    {"title": "Da quante ossa è formato il corpo umano?","category":"scienze", "correct":"206","answers":["100","106","206"]}, 
+    {"title": "Cosa è l'atomo?","category":"scienze", "correct":"la parte più piccola della materia","answers":["la parte più piccola della materia","una proteina","un carboidatro"]},
+    {"title": "Qual è la sigla dell'anidride carbonica?","category":"scienze", "correct":"CO2","answers":["H2O","Ca2Na","CO2"]},
+    {"title": "Quanto vale l'accelerazione di gravita sulla terra?","category":"scienze", "correct":"9.81","answers":["6.81","7.92","9.81"]},
+    {"title": "Con chi è fidanzata Emma Marrone?","category":"gossip", "correct":"Nikolai Danielsen","answers":["Non è fidanzata","Nikolai Danielsen","Marco Bocci"]},
+    {"title": "Quanti figli ha Elon Musk?","category":"gossip", "correct":"11","answers":["0","5","11"]},
+    {"title": "Qual è il nome dell'imprenditore noto per i suoi balli scatenati?","category":"gossip", "correct":"Gianluca Vacchi","answers":["Gianluca Vacchi","Flavio Briatore","Lapo Elkan"]},
+    {"title": "Cosa ha tatuato Chiara Ferragni sull'indice della mano sinistra?","category":"gossip", "correct":"Un cane","answers":["Un anello","Un cane","Uno smile"]}
+        
+]

@@ -1,0 +1,7 @@
+<div style="width:90%" class="mx-auto">
+<select #cats class="form-select" (change)="onSelected()"  aria-label="Default select example">
+    <option selected>Choose Category</option>
+    <option *ngFor="let c of categories;let i as index;"  value="{{c}}">{{c}}</option>
+  </select>
+  
+  <!--<p>mando : {{filterQuestions | json}}</p>-->
